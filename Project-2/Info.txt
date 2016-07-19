@@ -1,0 +1,4 @@
+For the second project of the course INE 5408, my teacher asked us to make a search system capable to find
+primary keys and secondary keys on the manpages of the Unix system. The first objective was to do all the 
+work on secondary memory (Hard Disk). Unfortunately, me and my partner, Otto Pires, cannot get finish on time
+and the program still "Seg Fault". We are too lazy to fix it up on our holiday, so feel free to help us :D.
