@@ -1,4 +1,4 @@
 For the first projetct of the course INE 5408, my teacher asked us to code a traffic  simulator. Unfortunately,
 my teacher did not code a test, since many interpretations could be done. The most part of documentation is fine, but 
 parts are still not much clear. Any questions, talk with me, I will be happy to help. OBS.: The program has no graphic
-interface.
+interface. Also, I have to mention my Project Partner Otto Menegasso Pires whose help was indispensable to complete this project.
